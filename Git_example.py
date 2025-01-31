@@ -1,3 +1,4 @@
 x = 2
 y = 3
-print(x * y)
+k = 5
+print(x * y + k)
