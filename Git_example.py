@@ -1,1 +1,3 @@
-print("I am a beginner with Git.")
+x = 2
+y = 3
+print(x * y)
